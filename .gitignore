@@ -1,0 +1,6 @@
+
+*.jpg
+data/.DS_Store
+models/1.keras
+model_checkpoint.keras
+.ipynb_checkpoints/Rice Classification CNN-checkpoint.ipynb
