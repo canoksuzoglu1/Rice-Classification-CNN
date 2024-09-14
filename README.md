@@ -20,7 +20,6 @@ This project demonstrates how to build, train, and evaluate a Convolutional Neur
    - [9. Model Saving and Loading](#9-model-saving-and-loading)
    - [Key Points](#key-points)
 - [Results](#results)
-- [License](#license)
 
 ## Project Overview
 
