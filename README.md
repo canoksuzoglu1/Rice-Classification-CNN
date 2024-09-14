@@ -95,14 +95,13 @@ Each subdirectory under `/Data` corresponds to one of the five rice varieties, a
 
 ## Installation
 1. Clone the repository:
-bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-
+```bash
+git clone https://github.com/canoksuzoglu1/Rice-Classification-CNN.git
+```
 2. Install the required dependencies:
-bash
+```bash
 pip install -r requirements.txt
-
+```
 3. Place your dataset in the Data/ directory as shown above.
 
 ## Usage
